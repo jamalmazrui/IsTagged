@@ -1,10 +1,8 @@
 # IsTagged 
-Version 1.0
-November 5, 2015
-Copyright 2012 - 2015 by Jamal Mazrui
-GNU Lesser General Public License (LGPL)
-
-* * *
+Version 1.0  
+November 5, 2015  
+Copyright 2012 - 2015 by Jamal Mazrui  
+GNU Lesser General Public License (LGPL) 
 
 ## Description
 
@@ -30,8 +28,6 @@ For each file checked, the program reports its status with a line of console out
 The program output may be captured in a text file using standard redirection, e.g., `IsTagged c:\temp\*.pdf >report.txt`.
 
 The output file may be examined manually or parsed by another program, e.g., to extract lines that begin with the N status.
-
-* * *
 
 ## Development Notes
 
